@@ -10,9 +10,6 @@ $movies = [
     new Movie("L'ora più buia", 2017, ['Guerra', 'Drammatico', 'Fiction storica']),
 ];
 
-
-
-
 ?>
 
 <!DOCTYPE html>
